@@ -187,7 +187,7 @@ As there can be unlimited number of images augmented, we set the samples per epo
 
 The model can drive the course without bumping into the side ways.
 
-- [The Lake Track - YouTube Link](https://youtu.be/y6GMAXvS22A)
+- [The Lake Track - YouTube Link](https://youtu.be/1dnwQ5_Kcp8)
 
 ## References
 - NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
