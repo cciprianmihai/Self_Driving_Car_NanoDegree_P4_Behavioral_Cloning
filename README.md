@@ -1,7 +1,7 @@
 
 
 |Lake Track|
-|[![Lake Track](images/lake_track.png)](https://youtu.be/y6GMAXvS22A)
+|[![Lake Track](images/lake_track.png)](https://youtu.be/1dnwQ5_Kcp8)
 
 ## Project Description
 
